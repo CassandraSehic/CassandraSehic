@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: why you'd want to date me
 ---
 
- I have the following qualities:
+ Some reasons:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I will make you a personal website in exchange for food.
+- I don't believe in free will, so I won't blame you if it doesn't work out.
+- I am a fencer. (thats cool)
+  
 
 What else do you need?
 
