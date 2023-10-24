@@ -1,18 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: why you'd want to date me
+subtitle: who is this girl?
 ---
 
- Some reasons:
-
-- I will make you a personal website in exchange for food.
-- I don't believe in free will, so I won't blame you if it doesn't work out.
-- I am a fencer. (thats cool)
+Hello, my name is Cassie Sehic. I've created this site to showcase some of my personality to future friends and employers. I make blog posts of whatever happens to cross my mind, showoff my personal projects, and store photos and art here. I hope you enjoy what you see!
   
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
