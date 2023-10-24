@@ -21,7 +21,7 @@ What I discovered:
 2. Even if the music I listen to doesn't match how I am feeling that month, true memories and emotions will be linked to those songs. Example: Apparently, I was listening to "I Was Made for Lovin' You" by KISS during a breakup. 
 3. Keeping a music diary has has helped my memory, especially sequential memory, tremendously. My life and the sequence of events that it consist of seem a lot more orderly in my head than they used to be.
 
-Really, the main benefit I have gained from keeping this style of diary is the ability to click a few buttons and revisit a month in my life and let memories come pouring back almost like I've set up a little projector in my brain. I also can't forget to mention the privacy and security benefits of this diary style. Nobody can read my secrets like they could if they found a paper diary. Thank god. If a strange music taste  is the worst can get, I'll proudly keep my music diary open for public viewing. You can visit it here: https://open.spotify.com/user/sehiccn?si=6819400a98b64de7
+Really, the main benefit I have gained from keeping this style of diary is the ability to click a few buttons and revisit a month in my life and let memories come pouring back almost like I've set up a little projector in my brain. I also can't forget to mention the privacy and security benefits of this diary style. Nobody can read my secrets like they could if they found a paper diary. Thank god. If a strange music taste  is the worst can get, I'll proudly keep my music diary open for public viewing. You can visit it [here](https://open.spotify.com/user/sehiccn?si=6819400a98b64de7).
 
 
 
