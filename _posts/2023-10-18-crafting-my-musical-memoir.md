@@ -8,10 +8,21 @@ share-img: /assets/img/album1.png
 tags: [music, diary]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+What is the longest amount of time you were able to consistantly keep a diary? I'd be impressed if you said three months. I'd be even more impressed if you looked back at old diary entries and didn't feel at least a twinge of embarrasment. 
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+I was inspired to write this post because I found an old diary entry from 2008 :(
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Needless to say, the traditional diary method is not for me, so don't expect this post to tell you how to maintain a cringeless diary for the rest of your life (if you know how to do this, my inbox is open). However, I can understand the appeal of having something that allows you to revisit your life experiences and emotions, and I suspect I'm not the only one based on how long-lasting and widespread the concept of a diary is. 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+September 2023 marks exactly three years of me keeping an alternative style diary, which I call a "music diary." The name is as simple as the concept. Naturally, I listen to music, and naturally, the music I listen to changes over time. At the beginning of each month, I create a new playlist titled the current month and year. Then, throughout the month, I add to the playlist whatever songs I'm liking and repeatedly listing to. I was not anticipating the great results.
+
+What I discovered:
+1. Each month of my life is completely different, even if I feel like I am doing the same things.
+2. Even if the music I listen to doesn't match how I am feeling that month, true memories and emotions will be linked to those songs. Example: Apparently, I was listening to "I Was Made for Lovin' You" by KISS during a breakup. 
+3. Keeping a music diary has has helped my memory, especially sequential memory, tremendously. My life and the sequence of events that it consist of seem a lot more orderly in my head than they used to be.
+
+Really, the main benefit I have gained from keeping this style of diary is the ability to click a few buttons and revisit a month in my life and let memories come pouring back almost like I've set up a little projector in my brain. I also can't forget to mention the privacy and security benefits of this diary style. Nobody can read my secrets like they could if they found a paper diary. Thank god. If a strange music taste  is the worst can get, I'll proudly keep my music diary open for public viewing. You can visit it here: https://open.spotify.com/user/sehiccn?si=6819400a98b64de7
+
+
+
+
