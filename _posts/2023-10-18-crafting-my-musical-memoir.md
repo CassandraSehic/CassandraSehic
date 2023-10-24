@@ -2,7 +2,7 @@
 layout: post
 title: Crafting My Musical Memoir
 subtitle: One Spotify Playlist at a Time
-cover-img: /assets/img/memoir2.png
+cover-img: /assets/img/statue.png
 thumbnail-img: /assets/img/album1.png
 share-img: /assets/img/album1.png
 tags: [music, diary]
