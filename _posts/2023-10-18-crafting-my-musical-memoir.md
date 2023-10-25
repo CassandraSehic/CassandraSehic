@@ -17,7 +17,8 @@ The traditional diary method was not for me, so don't expect this post to tell y
 ### The Alternative
 September 2023 marks exactly three years of me keeping an alternative style diary, which I call a "music diary." The name is as simple as the concept. Naturally, I listen to music, and naturally, the music I listen to changes over time. At the beginning of each month, I create a new playlist titled the current month and year (Example: October_2023). Then, throughout the month, I add to the playlist whatever songs I'm liking and repeatedly listing to. I was not anticipating the great results.
 
-### What I discovered:
+#### What I Discovered:
+
 1. Even if the music I listen to doesn't match how I am feeling that month, true memories and emotions will be linked to those songs. Example: Apparently, I was listening to ["I Was Made for Lovin' You" by KISS](https://www.youtube.com/watch?v=hWEBmwRYRVM) during a breakup. 
    
 2. Each month of my life is completely different. Without reflecting on the past, its difficult to recognize how much I change each month. Four weeks is a long time!
