@@ -64,8 +64,8 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  spotify: cassirinda
-  telephone: +17202442946
+  spotify: sehiccn
+# telephone: +17202442946
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -92,7 +92,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
