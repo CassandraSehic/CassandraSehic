@@ -1,90 +1,39 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Deterring Deterministic Dread
+subtitle: From a college girl's perspective.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Have you ever met that kid that keeps asking "Why?"
 
-**Here is some bold text**
+MOM: "You can't play in the park today."
 
-## Here is a secondary heading
+KID: "Why?"
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+MOM: "Because its storming outside."
 
-Here's a table:
+KID: "Why?"
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+MOM: "Because we live Florida."
 
-How about a yummy crepe?
+KID: "Why?"
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+MOM: "Because there is no state income tax, and your dad got a job here."
 
-It can also be centered!
+KID: "Why?"
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+MOM: *Sigh*
 
-Here's a code chunk:
+Even children seem to intuitively grasp the infinite chain of causality that unfolds before us. One of my earliest memories revolves around this very realization: "If everything is a result of a preceding cause, and that preceding cause is also a result of another cause, what do I genuinely control?" This revelation haunted me throughout my formative years.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+The feeling of helplessness worsened when I learned in school about the distinct brain structures of psychopaths, identifiable through brain scans. I wondered, "If a psychopath has no say over their brain's malformation, how can they be blamed for heinous acts like murder? Should anyone truly be held accountable for their actions?" When I tried sharing these thoughts with peers and teachers, I was immediately shut down, so I had to turn to the family computer room for answers.
 
-And here is the same code with syntax highlighting:
+After fumbling through words to describe the concept, Google eventually presented [Determinism](https://en.wikipedia.org/wiki/Determinism) to me. To my astonishment, a considerable number of thinkers throughout history appeared to favor determinism. I found physicists and philosophers who so eloquently talked about the subject, that I was drawn in deeper. As I watched debates on free will versus determinism, I observed that many who defended "free will" were actually championing the _belief_ in free will—a distinction that's crucial. As I delved in EVEN FURTHER, my perspective shifted toward indeterminism. Basically, I maintained my skepticism of free will, but now posited that not all events are predetermined and that instead, some events, especially in the realm of quantum mechanics, are random. I am no physicist, but I had become much more researched on the subject than the average college gal, yet, a lingering issue remained: I still did not have free will, and I hated that.
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+To say I struggled with this, would be an oversimplification. I fixated on it too much. The English language seems ill-equipped to capture the paradox of consciously recognizing one's own lack of free will, so I'll spare most of the details. Just know that it sparked intense internal conflicts like: "If one truly believes they lack free will, why should they bother doing anything if it's all predetermined?" But, the act of pondering this or choosing inaction is, is a form of action, which was also.. predertermined. Shit."
 
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+The purpose of this post is not to convince anyone that they do not have free will. Instead, I want to share another revelation: it doesn't truly matter. Whether we possess free will shouldn't concern us because it's not how we experience the world. Consider the chair you're sitting on—it's mostly empty space (mostly being 99.9999999%!). Yet, you perceive it as solid and tangible. The chair's emptiness doesn't affect your daily life. Similarly, our perception of free will shouldn't plunge us into existential despair. We experience life as if we have agency, and that's what truly matters. This isn't to say that I think people should avoid the topic of free will and determinism, I still find it very intriguing and worthy of discussion. However, trying to take advantage of the knowlege that you do not have free will is futile. So, do not sit on your empty chair and hope you were lucky enough to have been gifted a great life by the universe, go out, make decisions, and demand it for yourself!
