@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Deterring Deterministic Dread
-subtitle: From a college girl's perspective.
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+subtitle: From a college girls perspective.
+cover-img: /assets/img/option1.jpg
+thumbnail-img: /assets/img/album1.png
+share-img: /assets/img/album1.png
 ---
 
 Have you ever met that kid that keeps asking "Why?"
