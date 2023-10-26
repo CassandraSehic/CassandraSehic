@@ -3,7 +3,7 @@ layout: page
 title: About Me
 subtitle: Who is this girl?
 ---
-<img src="assets/img/prof.jpg" alt="me" width="200"/>
+<img src="assets/img/prof.jpg" alt="me" width="400"/>
 
 Hello, my name is Cassie Sehic. I've created this site to showcase some of my personality to future friends and employers. I make blog posts of whatever happens to cross my mind, showoff my personal projects, and store photos and art here. I hope you enjoy what you see!
 
