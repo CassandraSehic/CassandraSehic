@@ -2,7 +2,7 @@
 layout: post
 title: Deterring Deterministic Dread
 subtitle: From a college girls perspective.
-cover-img: /assets/img/option1.jpg
+cover-img: /assets/img/borg.png
 thumbnail-img: /assets/img/album1.png
 share-img: /assets/img/album1.png
 ---
