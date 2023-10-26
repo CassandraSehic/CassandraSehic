@@ -3,8 +3,8 @@ layout: post
 title: Deterring Deterministic Dread
 subtitle: From a college girls perspective.
 cover-img: /assets/img/borg.png
-thumbnail-img: /assets/img/album1.png
-share-img: /assets/img/album1.png
+thumbnail-img: /assets/img/borgface.png
+share-img: /assets/img/borgface.png
 ---
 
 Have you ever met that kid that keeps asking "Why?"
