@@ -15,7 +15,7 @@ I was inspired to write this post because I found an old diary entry from 2008 :
 The traditional diary method was not for me, so don't expect this post to tell you how to maintain a cringeless diary (if you know how to do this, my inbox is open). However, I can understand the appeal of having something that allows you to revisit your life experiences and emotions, and I suspect I'm not the only one, based on how long-lasting and widespread the concept of a diary is. 
 
 ### The Alternative
-September 2023 marks exactly three years of me keeping an alternative style diary, which I call a "music diary." The name is as simple as the concept. Naturally, I listen to music, and naturally, the music I listen to changes over time. At the beginning of each month, I create a new playlist titled the current month and year (Example: [October 2023](https://open.spotify.com/playlist/6mzqNhrFcqRbV7r3AONmYh?si=9947990362f64a6a). Then, throughout the month, I add to the playlist whatever songs I'm liking and repeatedly listing to. I was not anticipating the great results.
+September 2023 marks exactly three years of me keeping an alternative style diary, which I call a "music diary." The name is as simple as the concept. Naturally, I listen to music, and naturally, the music I listen to changes over time. At the beginning of each month, I create a new playlist titled the current month and year (Example: [October 2023](https://open.spotify.com/playlist/6mzqNhrFcqRbV7r3AONmYh?si=9947990362f64a6a). Then, throughout the month, I add to the playlist whatever songs I'm liking and repeatedly listing to. I was honestly not anticipating the great results.
 
 #### What I Discovered:
 
