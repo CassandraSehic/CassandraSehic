@@ -22,7 +22,7 @@ author: Cassandra Sehic
 navbar-links:
   About Me: "aboutme"
   Misc. Creations:
-    - Projects: "https://beautifuljekyll.com"
+    - Projects: "projects"
     - Writing: "https://www.markdowntutorial.com/"
   Life Gallary: "lifegallary"
 
