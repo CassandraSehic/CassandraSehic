@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Life Gallary
+title: Life Gallery
 subtitle: From the Nikon.
 ---
 
