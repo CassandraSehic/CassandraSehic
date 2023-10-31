@@ -22,7 +22,7 @@ author: Cassandra Sehic
 navbar-links:
   About Me: "aboutme"
   Misc. Creations:
-    - Projects: "projects"
+    - Projects: "projects.html"
     - Writing: "https://www.markdowntutorial.com/"
   Life Gallery: "lifegallery"
 
