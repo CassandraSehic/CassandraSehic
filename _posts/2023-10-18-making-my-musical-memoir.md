@@ -23,7 +23,7 @@ September 2023 marks exactly three years of me keeping an alternative style diar
    
 2. Each month of my life is completely different. Without reflecting on the past, its difficult to recognize how much I change each month. Four weeks is a long time!
    
-3. Keeping a music diary has has helped my memory, especially sequential memory, tremendously. My life and the sequence of events that it consist of seem a lot more orderly in my head than they used to be, ([which apparently makes me more human](https://neurosciencenews.com/sequential-memory-human-trait-23888/).)
+3. Keeping a music diary has has helped my memory, especially sequential memory, tremendously. My life and the sequence of events that it consist of seem a lot more orderly in my head than they used to be, ([which, apparently, makes me more human](https://neurosciencenews.com/sequential-memory-human-trait-23888/).)
 
 ### Try it!
 Really, the main benefit I have gained from keeping this style of diary is the ability to click a few buttons and revisit a month in my life. The memories come flickering back almost like I've set up a little projector in my brain. I'd love to see the music diaries of others, and I'd encourage anyone to give it a try. It costs nothing, is super easy, and provided at least one person incredible benefits. Also, I can't forget to mention is the privacy and security of a music diary. If a strange music taste is the worst someone can get on me, I'll proudly keep my music diary open for public viewing. In fact, you can visit it [here](https://open.spotify.com/user/sehiccn?si=6819400a98b64de7). 
