@@ -1,34 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clickable Image Blocks</title>
-    <style>
-        /* Basic styling for the image blocks */
-        .image-block {
-            display: inline-block;
-            margin: 10px;
-            text-align: center;
-            border: 1px solid #ccc;
-            transition: transform 0.2s;
-        }
+---
+layout: page
+title: Projects
+---
 
-        .image-block:hover {
-            transform: scale(1.05); /* Slight zoom effect on hover */
-            cursor: pointer;
-        }
+<div class="container">
+    <h1 class="page-title">My Projects</h1>
+    
+    <!-- Image Block 1 -->
+    <div class="image-block" onclick="location.href='project1.html';">
+        <img src="memoir.jpg" alt="Project 1">
+        <p>Project 1 Title</p>
+    </div>
 
-        .image-block img {
-            max-width: 200px;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
+    <!-- Add more image blocks as needed -->
 
-<!-- Image Block 1 -->
-<div class="image-block" onclick="location.href='lifegalley.md';">
-    <img src="borg.png" alt="Description 1">
-    <p>Label 1</p>
-</div
+</div>
+
+<style>
+    /* Basic styling for the image blocks */
+    .image-block {
+        display: inline-block;
+        margin: 10px;
+        text-align: center;
+        border: 1px solid #ccc;
+        transition: transform 0.2s;
+    }
+
+    .image-block:hover {
+        transform: scale(1.05); /* Slight zoom effect on hover */
+        cursor: pointer;
+    }
+
+    .image-block img {
+        max-width: 200px;
+        height: auto;
+    }
+
+    .page-title {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+</style>
+
