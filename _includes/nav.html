@@ -4,6 +4,18 @@
     }
 </style>
 
+<style>[data-theme="dark"] {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+[data-theme="dark"] a {
+    color: #bb86fc;
+}
+
+/* Add more dark mode specific styles as needed */
+</style>
+
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
   {%- if site.title-img -%}
@@ -73,3 +85,28 @@
 </nav>
 
 {% include search.html %}
+
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+    const toggleSwitch = document.querySelector('#darkModeToggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+
+        if (currentTheme === 'dark') {
+            toggleSwitch.checked = true;
+        }
+    }
+
+    toggleSwitch.addEventListener('change', (e) => {
+        if (e.target.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+        } else {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+        }
+    });
+});
+</script>
