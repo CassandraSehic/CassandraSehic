@@ -24,9 +24,9 @@ title: Projects
     text-align: center;
     border: 1px solid #ccc;
     transition: transform 0.2s, box-shadow 0.2s;
-    width: 250px;  /* Adjust this for the desired box size */
-    height: 250px; /* Adjust this for the desired box size */
-    position: relative; /* Added for the inner positioning of the image */
+    width: 350px;  /* Adjusted for a bigger box size */
+    height: 350px; /* Adjusted for a bigger box size */
+    position: relative; /* For the inner positioning of the image */
     overflow: hidden;   /* Ensures the image doesn't spill out */
 }
 
@@ -46,9 +46,16 @@ title: Projects
     transform: translate(-50%, -50%);
 }
 
-    .page-title {
-        text-align: center;
-        margin-bottom: 30px;
-    }
+.container {
+    display: flex;
+    justify-content: center; /* Horizontally center the content */
+    flex-wrap: wrap; /* Allows the blocks to wrap to the next line if there's not enough space */
+}
+
+.page-title {
+    text-align: center;
+    margin-bottom: 30px;
+    width: 100%; /* Ensures the title takes the full width and centers properly */
+}
 </style>
 
