@@ -31,11 +31,18 @@
         {%- endif -%}
       {%- endfor -%}
       {% if site.post_search %}
+        <!-- Dark Mode Toggle -->
         <li class="nav-item">
-          <a class="nav-link" id="nav-search-link" href="#" title="Search">
-            <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
-          </a>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="darkModeToggle">
+                <label class="custom-control-label" for="darkModeToggle">🌙</label>
+            </div>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="nav-search-link" href="#" title="Search">
+                <span id="nav-search-icon" class="fa fa-search"></span>
+                <span id="nav-search-text">Search</span>
+            </a>
         </li>
       {%- endif -%}
     </ul>
