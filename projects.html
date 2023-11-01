@@ -19,22 +19,32 @@ title: Projects
 <style>
     /* Basic styling for the image blocks */
     .image-block {
-        display: inline-block;
-        margin: 10px;
-        text-align: center;
-        border: 1px solid #ccc;
-        transition: transform 0.2s;
-    }
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    transition: transform 0.2s, box-shadow 0.2s;
+    width: 250px;  /* Adjust this for the desired box size */
+    height: 250px; /* Adjust this for the desired box size */
+    position: relative; /* Added for the inner positioning of the image */
+    overflow: hidden;   /* Ensures the image doesn't spill out */
+}
 
-    .image-block:hover {
-        transform: scale(1.05); /* Slight zoom effect on hover */
-        cursor: pointer;
-    }
+.image-block:hover {
+    transform: scale(1.05); /* Slight zoom effect on hover */
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect */
+}
 
-    .image-block img {
-        max-width: 200px;
-        height: auto;
-    }
+.image-block img {
+    max-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
     .page-title {
         text-align: center;
