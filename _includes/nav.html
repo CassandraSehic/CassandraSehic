@@ -10,19 +10,20 @@
 }
 
 [data-theme="dark"] a {
-    color: #bb86fc;
+    color: #ff0000; /* Red color for links */
 }
 
 [data-theme="dark"] .navbar-custom {
     background-color: #1f1f1f;
 }
 
-[data-theme="dark"] .navbar-custom .nav-link {
+[data-theme="dark"] .navbar-custom .nav-link,
+[data-theme="dark"] .navbar-custom .navbar-brand {
     color: #e0e0e0;
 }
 
 [data-theme="dark"] .navbar-custom .nav-link:hover {
-    color: #bb86fc;
+    color: #ff0000; /* Red color for hovered links */
 }
 
 [data-theme="dark"] .dropdown-menu {
@@ -36,6 +37,13 @@
 [data-theme="dark"] .dropdown-item:hover {
     background-color: #3a3a3a;
 }
+
+[data-theme="dark"] .blog-content {
+    background-color: #1f1f1f; /* Dark background for the blog content */
+}
+
+/* Add more dark mode specific styles as needed */
+
 </style>
 
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
