@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Misc. Creations:
     - Projects: "projects.html"
-    - Writing: "https://www.markdowntutorial.com/"
+    - Writing: "projects.html"
   Life Gallery: "lifegallery"
 
 ################
