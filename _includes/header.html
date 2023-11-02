@@ -2,7 +2,7 @@
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
-{% if page.layout == "post" and document.documentElement.getAttribute('data-theme') == "dark" %}
+{% if page.layout == "post" and site.theme == "dark" %}
   {% assign hide_cover_image = true %}
 {% else %}
   {% assign hide_cover_image = false %}
@@ -28,10 +28,10 @@
   {% endif %}
 {% endunless %}
 
-<header class="header-section {% if page.cover-img and not hide_cover_image %}has-img{% endif %}">
+<header class="header-section {% if page.cover-img %}has-img{% endif %}">
 {% if page.cover-img and not hide_cover_image %}
 <div class="big-img intro-header">
-  <!-- ... rest of the intro-header code ... -->
+  <!-- ... rest of the cover image code ... -->
 </div>
 {% endif %}
 <div class="intro-header no-img">
