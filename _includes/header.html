@@ -1,17 +1,9 @@
-<!-- TODO this file has become a mess, refactor it -->
-
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-
-{% if site.theme == "dark" %}
-  {% assign hide_cover_image = true %}
-{% else %}
-  {% assign hide_cover_image = false %}
-{% endif %}
-
 {% if page.cover-img or page.title %}
 
-{% unless hide_cover_image %}
-  {% if page.cover-img %}
+{% if page.cover-img %}
+  {% if page.hide_cover_image %}
+    <!-- Do nothing, effectively hiding the cover image in dark mode -->
+  {% else %}
     <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
       {% for bigimg in page.cover-img %}
       {% assign imgnum = forloop.index %}
@@ -26,10 +18,10 @@
       {% endfor %}
     ></div>
   {% endif %}
-{% endunless %}
+{% endif %}
 
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
-{% if page.cover-img and not hide_cover_image %}
+{% if page.cover-img %}
 <div class="big-img intro-header">
   <div class="container-md">
     <div class="row">
