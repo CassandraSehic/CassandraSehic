@@ -3,7 +3,83 @@
     margin-bottom: 0;
     padding-bottom: 0;
 }
-/* ... (rest of your styles remain unchanged) ... */
+</style>
+
+<style>
+[data-theme="dark"] body, [data-theme="dark"] html {
+    background-color: #1a1a1a;
+}
+</style>
+
+<style>
+[data-theme="dark"] body {
+    background-image: url("/assets/img/darkimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /* This will cover the entire viewport */
+    background-attachment: fixed; /* This will make the background fixed when scrolling */
+}
+</style>
+
+<style>
+[data-theme="dark"] .footer {
+    background-color: #000; /* Black background for the footer */
+    color: #e0e0e0; /* Light gray text color for the footer */
+}
+</style>
+
+<style>
+[data-theme="dark"] .avatar-img {
+    content: url("/assets/img/avatar3.png");
+}
+</style>
+
+<style>
+    .custom-control-input:checked ~ .custom-control-label::before {
+        background-color: red;
+    }
+</style>
+
+<style>[data-theme="dark"] {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+[data-theme="dark"] a {
+    color: #ff0000; /* Red color for links */
+}
+
+[data-theme="dark"] .navbar-custom {
+    background-color: #1f1f1f;
+}
+
+[data-theme="dark"] .navbar-custom .nav-link,
+[data-theme="dark"] .navbar-custom .navbar-brand {
+    color: #e0e0e0;
+}
+
+[data-theme="dark"] .navbar-custom .nav-link:hover {
+    color: #ff0000; /* Red color for hovered links */
+}
+
+[data-theme="dark"] .dropdown-menu {
+    background-color: #2e2e2e;
+}
+
+[data-theme="dark"] .dropdown-item {
+    color: #e0e0e0;
+}
+
+[data-theme="dark"] .dropdown-item:hover {
+    background-color: #3a3a3a;
+}
+
+/* Adjusting the main content background and text color */
+[data-theme="dark"] .container-md, 
+[data-theme="dark"] .container-fluid, 
+[data-theme="dark"] .col {
+    background-color: #1f1f1f; /* Dark background for the main content */
+    color: #e0e0e0; /* Light gray text color */
+}
 </style>
 
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
@@ -13,12 +89,6 @@
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
   {%- endif -%}
-
-  <!-- Dark Mode Toggle -->
-  <div class="custom-control custom-switch d-inline-block align-middle mr-3">
-      <input type="checkbox" class="custom-control-input" id="darkModeToggle">
-      <label class="custom-control-label" for="darkModeToggle">🦇</label>
-  </div>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -45,6 +115,13 @@
         {%- endif -%}
       {%- endfor -%}
       {% if site.post_search %}
+        <!-- Dark Mode Toggle -->
+        <li class="nav-item">
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="darkModeToggle">
+                <label class="custom-control-label" for="darkModeToggle">🦇</label>
+            </div>
+        </li>
         <li class="nav-item">
             <a class="nav-link" id="nav-search-link" href="#" title="Search">
                 <span id="nav-search-icon" class="fa fa-search"></span>
