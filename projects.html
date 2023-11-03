@@ -6,56 +6,80 @@ title: Projects
 <div class="container">
     <h1 class="page-title">My Projects</h1>
     
-    <!-- Image Block 1 -->
-    <div class="image-block" onclick="location.href='project1.html';">
-        <img src="/assets/img/evilzuck.png" alt="Encrypted Chat">
-        <p>Encrypted Chat</p>
-    </div>
+    <!-- Project Block 1 -->
+    <a href="encryptedchat.html" class="project-block">
+        <div class="project-image">
+            <img src="/assets/img/evilzuck.png" alt="Encrypted Chat">
+        </div>
+        <div class="project-info">
+            <h2 class="project-title">Encrypted Chat</h2>
+            <p class="project-description">A secure way to communicate with end-to-end encryption.</p>
+        </div>
+    </a>
 
-    <!-- Add more image blocks as needed -->
+    <!-- Add more project blocks as needed -->
 
 </div>
 
 <style>
-    /* Basic styling for the image blocks */
-    .image-block {
-    display: inline-block;
-    margin: 20px;
-    text-align: center;
-    border: 1px solid #ccc;
-    transition: transform 0.2s, box-shadow 0.2s;
-    width: 350px;  /* Adjusted for a bigger box size */
-    height: 350px; /* Adjusted for a bigger box size */
-    position: relative; /* For the inner positioning of the image */
-    overflow: hidden;   /* Ensures the image doesn't spill out */
-}
+    /* Basic styling for the project blocks */
+    .project-block {
+        display: inline-block;
+        margin: 20px;
+        text-align: center;
+        border: 1px solid #ccc;
+        transition: transform 0.2s, box-shadow 0.2s;
+        width: 350px;
+        color: inherit; /* Keeps the text color consistent */
+        text-decoration: none; /* Removes underline from links */
+    }
 
-.image-block:hover {
-    transform: scale(1.05); /* Slight zoom effect on hover */
-    cursor: pointer;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect */
-}
+    .project-block:hover {
+        transform: scale(1.05); /* Slight zoom effect on hover */
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    }
 
-.image-block img {
-    max-width: 100%;
-    min-height: 100%;
-    object-fit: cover;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
+    .project-image {
+        width: 100%;
+        height: 200px; /* Adjust height as needed */
+        overflow: hidden; /* Ensures the image doesn't spill out */
+        position: relative;
+    }
 
-.container {
-    display: flex;
-    justify-content: center; /* Horizontally center the content */
-    flex-wrap: wrap; /* Allows the blocks to wrap to the next line if there's not enough space */
-}
+    .project-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
 
-.page-title {
-    text-align: center;
-    margin-bottom: 30px;
-    width: 100%; /* Ensures the title takes the full width and centers properly */
-}
+    .project-info {
+        padding: 10px;
+    }
+
+    .project-title {
+        font-size: 1.5em;
+        margin-top: 10px;
+    }
+
+    .project-description {
+        font-size: 1em;
+        color: #666; /* Adjust the color as needed */
+    }
+
+    .container {
+        display: flex;
+        justify-content: center; /* Horizontally center the content */
+        flex-wrap: wrap; /* Allows the blocks to wrap to the next line if there's not enough space */
+    }
+
+    .page-title {
+        text-align: center;
+        margin-bottom: 30px;
+        width: 100%; /* Ensures the title takes the full width and centers properly */
+    }
 </style>
-
