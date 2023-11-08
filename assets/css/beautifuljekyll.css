@@ -382,24 +382,25 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
-  background-color: {{ site.footer-col | default: "#EAEAEA" }};
-  {% if site.footer-img %}
-    background-image: url({{ site.footer-img | relative_url }});
-    background-attachment: fixed;
-  {% endif %}
+  background-color: #EAEAEA; /* Default background color */
+  background-image: url('/assets/img/footer.png'); /* Path to the background image */
+  background-size: cover; /* Cover the entire footer area */
+  background-position: center; /* Center the image in the footer */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  /* background-attachment: fixed; */ /* Uncomment if you want a fixed background */
 }
 
 footer p.text-muted {
-  color: {{ site.footer-text-col | default: "#777777" }} !important;
+  color: #777777 !important; /* Default text color for the muted text */
 }
 
 footer a {
-  color: {{ site.footer-link-col | default: "#404040" }};
+  color: #404040; /* Default link color */
 }
 
 footer a:hover,
 footer a:focus {
-  color: {{ site.footer-hover-col | default: "#0085A1" }};
+  color: #0085A1; /* Color for link hover and focus states */
 }
 
 footer .list-inline {
@@ -407,16 +408,19 @@ footer .list-inline {
   padding: 0;
   margin-bottom: 1.875rem;
 }
+
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
   margin-top: 0;
 }
+
 footer .theme-by {
   text-align: center;
   margin: 0.625rem 0 0;
 }
+
 footer .footer-custom-content {
   text-align: center;
   margin-bottom: 0.9375rem;
