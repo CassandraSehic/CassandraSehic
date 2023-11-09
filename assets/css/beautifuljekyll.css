@@ -383,7 +383,7 @@ footer {
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: #EAEAEA; /* Default background color */
-  background-image: url('/assets/img/footer1.png'); /* Path to the background image */
+  background-image: url('/assets/img/footer2.png'); /* Path to the background image */
   background-size: cover; /* Cover the entire footer area */
   background-position: center; /* Center the image in the footer */
   background-repeat: no-repeat; /* Do not repeat the image */
