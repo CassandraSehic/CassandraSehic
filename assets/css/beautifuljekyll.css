@@ -382,7 +382,7 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
-  background-color: #404040; /* Default background color */
+  /* background-color: #404040; /* Default background color */ */
  /* background-image: url('/assets/img/footer2.png'); /* Path to the background image */ */
   background-size: cover; /* Cover the entire footer area */
   background-position: center; /* Center the image in the footer */
