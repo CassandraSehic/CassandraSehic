@@ -51,7 +51,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col | default: "#858CD0" }};
+  color: {{ site.hover-col | default: "#c8eafa" }};
 }
 blockquote {
   color: #808080;
@@ -83,12 +83,12 @@ hr.small {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#c8eafa" }};
 }
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#c8eafa" }};
 }
 img::selection {
   color: #fff;
@@ -313,7 +313,7 @@ img {
 .navbar-custom .navbar-nav .nav-link:focus,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#c8eafa" }};
 }
 
 .navbar-custom .avatar-container {
@@ -395,7 +395,7 @@ footer p.text-muted {
 }
 
 footer a {
-  color: #858CD0; /* Default link color */
+  color: #0085A1; /* Default link color */
 }
 
 footer a:hover,
