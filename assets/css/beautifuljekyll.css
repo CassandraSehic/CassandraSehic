@@ -51,7 +51,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#858CD0" }};
 }
 blockquote {
   color: #808080;
@@ -395,12 +395,12 @@ footer p.text-muted {
 }
 
 footer a {
-  color: #404040; /* Default link color */
+  color: #858CD0; /* Default link color */
 }
 
 footer a:hover,
 footer a:focus {
-  color: #0085A1; /* Color for link hover and focus states */
+  color: #858CD0; /* Color for link hover and focus states */
 }
 
 footer .list-inline {
