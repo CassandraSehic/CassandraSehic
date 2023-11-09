@@ -400,7 +400,7 @@ footer a {
 
 footer a:hover,
 footer a:focus {
-  color: #858CD0; /* Color for link hover and focus states */
+  color: #404040; /* Color for link hover and focus states */
 }
 
 footer .list-inline {
