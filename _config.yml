@@ -21,9 +21,7 @@ author: Cassandra Sehic
 
 navbar-links:
   About Me: "aboutme"
-  Misc. Creations:
-    - Projects: "projects"
-    - Writing: "writings"
+  Projects: "projects"
   Life Gallery: "lifegallery"
 
 ################
