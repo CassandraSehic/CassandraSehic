@@ -1,3 +1,12 @@
+---
+layout: post
+title: Can AI Save Fencing?
+subtitle: 
+cover-img: /assets/img/moloch.png
+thumbnail-img: /assets/img/moloch2.png
+share-img: /assets/img/moloch2.png
+---
+
 ## Can AI Save Fencing?
 
 ### Introduction: My Experience in the World of Fencing
