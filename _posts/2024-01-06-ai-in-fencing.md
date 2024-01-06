@@ -9,7 +9,7 @@ share-img: /assets/img/fencingai.png
 
 ### Introduction: My Experience in the World of Fencing
 
-Fencing has been a central part of my life for nearly a decade. It's shaped major decisions, including my choice of college, and has been a source of both joy and frustration. As a saber fencer, I've experienced firsthand the highs and lows of this dynamic sport.
+Fencing has been a central part of my life for nearly a decade. It's shaped major decisions, including my choice of college, and has been a source of both joy and frustration. As a saber fencer, I've experienced the intense highs and lows of this sport.
 
 ### The Challenge of Refereeing in Fencing
 
