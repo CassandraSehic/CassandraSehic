@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can AI Save Fencing?
-subtitle: 
+subtitle: I'd like to see it!
 cover-img: /assets/img/fencingai.png
 thumbnail-img: /assets/img/fencingai.png
 share-img: /assets/img/fencingai.png
