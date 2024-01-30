@@ -42,7 +42,7 @@
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline midd">&midd;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                Last updated {{ page.last-updated | date: "%Y-%m-%d" }}
               </span>
             {% endif %}
             {% if page.readtime %}
@@ -72,7 +72,7 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            <span class="post-meta">Posted on {{ page.date | date: "%Y-%m-%d" }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline midd">&midd;</span>
