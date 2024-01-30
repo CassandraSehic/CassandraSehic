@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moloch in the Modern Age
-subtitle: The Sacrifices We Make for Illusory Gains
+subtitle: The sacrifices we Make for illusory gains
 cover-img: /assets/img/moloch.png
 thumbnail-img: /assets/img/moloch2.png
 share-img: /assets/img/moloch2.png
