@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making My Musical Memoir
-subtitle: An alternative for people who forget to journal.
+subtitle: the alternative for people who forget to journal.
 cover-img: /assets/img/option1.jpg
 thumbnail-img: /assets/img/album1.png
 share-img: /assets/img/album1.png
