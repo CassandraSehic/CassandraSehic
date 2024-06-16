@@ -5,6 +5,7 @@ subtitle: from a college girl's perspective.
 cover-img: /assets/img/borg.png
 thumbnail-img: /assets/img/borgface.png
 share-img: /assets/img/borgface.png
+tags: [philosophy]
 ---
 
 Have you ever met that kid that keeps asking "Why?"
