@@ -5,7 +5,7 @@ subtitle: the alternative for people who forget to journal.
 cover-img: /assets/img/option1.jpg
 thumbnail-img: /assets/img/album1.png
 share-img: /assets/img/album1.png
-tags: [music, diary]
+tags: [music, art]
 ---
 
 What is the longest amount of time you were able to keep a diary? I'd be impressed if you said three months. I'd be even more impressed if you looked back at old diary entries and didn't feel at least a twinge of embarrasment. 
